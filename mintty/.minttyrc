@@ -1,0 +1,14 @@
+ThemeFile=nord
+Transparency=medium
+OpaqueWhenFocused=yes
+CursorType=block
+FontHeight=10
+FontSmoothing=default
+BoldAsFont=no
+BoldAsColour=yes
+Term=xterm
+BellType=-1
+Printer=EPSON4B12E6 (XP-225 Series)
+Font=Liberation Mono
+Columns=153
+Rows=65
